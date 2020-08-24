@@ -6,8 +6,7 @@ the solution was developed to reduce the congestion in queues and notify the per
 [Demo Video Link](https://www.youtube.com/watch?v=k6Pd2CVAmms&feature=youtu.be)
 
 
-
-### Proposal for Hardware
+## Proposal for Hardware
 
 ## Scenario 1: Manufacturing
 
@@ -29,16 +28,6 @@ Requirement Observed
 ```
 ```
 How does the chosen hardware meet this requirement?
-```
-```
-Example requirement:
-The client requires a tiny device to be connected to their
-CPU—and their budget is only about $100 for each device.
-```
-```
-Example explanation:
-VPU or NCS2 is only about 27.40 mm in size and would fit
-in the price range.
 ```
 ```
 The client has plenty of revenue and wants to install a
