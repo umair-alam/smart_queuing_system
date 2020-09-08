@@ -66,8 +66,8 @@ hours a day, 7 days a week, 365 days a year.
 ```
 ### Queue Monitoring Requirements
 
-Maximum number of people in the queue (^5) people
-Model precision chosen (FP32, FP16, or Int8) FP
+Maximum number of people in the queue: 5 people
+Model precision chosen (FP32, FP16, or Int8): FP16
 
 
 ### Test Results
