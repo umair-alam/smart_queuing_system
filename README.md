@@ -244,8 +244,8 @@ devices and fairly enhance computational speed.
 ```
 ### Queue Monitoring Requirements
 
-Maximum number of people in the queue (^10)
-Model precision chosen (FP32, FP16, or Int8) (^) FP3 2
+Maximum number of people in the queue: 10
+Model precision chosen (FP32, FP16, or Int8):  FP3 2
 
 ### Test Results
 
